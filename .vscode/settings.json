@@ -4,5 +4,8 @@
         "typescriptreact": false,
         "javascript": false,
         "javascriptreact": false
-    }
+    },
+    "cody.autocomplete.enabled": false,
+    "cody.inlineChat.enabled": false,
+    "cody.codeActions.enabled": false
 }

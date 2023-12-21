@@ -246,6 +246,13 @@ module.exports = {
         return: "void",
     },
 
+    MergeSort: {
+        type: "fn",
+        fn: "merge_sort",
+        args: "arr: number[]",
+        return: "void",
+    },
+
     QuickSort: {
         type: "fn",
         fn: "quick_sort",
