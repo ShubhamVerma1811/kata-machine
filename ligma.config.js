@@ -25,5 +25,6 @@ module.exports = {
         "BFSGraphMatrix",
         "Map",
         "MinHeap",
+        "DijkstraList"
     ],
 };

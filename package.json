@@ -18,7 +18,7 @@
         "clear": "node ./scripts/clear.js",
         "format": "prettier -w * -u",
         "generate": "node ./scripts/generate.js",
-        "day": "echo src\\day1"
+        "day": "echo src\\day2"
     },
     "devDependencies": {
         "@swc-node/register": "^1.6.7"
