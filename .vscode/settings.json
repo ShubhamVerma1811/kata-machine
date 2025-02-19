@@ -1,11 +1,16 @@
 {
-    "github.copilot.enable": {
-        "typescript": false,
-        "typescriptreact": false,
-        "javascript": false,
-        "javascriptreact": false
-    },
-    "cody.autocomplete.enabled": false,
-    "cody.inlineChat.enabled": false,
-    "cody.codeActions.enabled": false
+  "github.copilot.enable": {
+    "typescript": false,
+    "typescriptreact": false,
+    "javascript": false,
+    "javascriptreact": false
+  },
+  "cody.autocomplete.enabled": false,
+  "cody.inlineChat.enabled": false,
+  "cody.codeActions.enabled": false,
+  "supermaven.enable": {
+    "javascript": false,
+    "typescript": false
+  },
+  "windsurf.enableAutocomplete": false
 }
